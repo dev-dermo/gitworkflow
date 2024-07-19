@@ -1,1 +1,0 @@
-const someSecretCode = 123456;
